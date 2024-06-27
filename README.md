@@ -11,7 +11,7 @@ This project demonstrates how to update CSS variables using JavaScript. It provi
 
 ## Demo
 
-You can check out the live demo [here](#).
+You can check out the live demo [here](https://thesaadster.github.io/CSS-Variables/).
 
 ## Features
 
